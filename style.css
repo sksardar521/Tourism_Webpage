@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 10px;
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #3ec8fa;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+
+}
+
+
+
+
+
+.favourite-places-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.favourite-places-heading {
+    color: white;
+    font-family: "roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.favourite-places-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 5px;
+
+}
+
+.favourite-places-card-heading {
+    color: #0f0e46;
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 23px;
+
+}
+
+.favourite-places-card-description {
+    color: #6c6b70;
+    font-family: "roboto";
+    font-size: 13px;
+}
+
+.favourite-places-card-image {
+    width: 80px;
+    height: 100px;
+}
+
+
+
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+    padding: 15px;
+
+}
+
+.detailed-view-heading {
+    color: white;
+    font-size: 28px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-heading {
+    font-family: "roboto";
+    color: #0f0e46;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.detailed-view-card-bottom-section {
+    background-color: rgb(15, 126, 174);
+    padding: 16px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "roboto";
+    font-size: 13px;
+
+}
+
+.detailed-view-card-container {
+
+    margin: 8px;
+}
+
+
+
+
+.detailed-view-goldentemple-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+}
+
+.heading {
+    color: rgb(9, 20, 115);
+    padding: 20px;
+}
+
+.image-section {
+    padding: 20px;
+}
+
+.description {
+    background-color: rgb(255, 255, 255);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding: 8px;
+}
